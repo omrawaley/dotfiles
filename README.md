@@ -33,5 +33,5 @@ A rice that utilises:
 #### dwm, dmenu, & st
 Copy each `config.h` into their respective directories wherever your Suckless programs are installed.
 
-#### nvim
+#### Neovim
 Copy the `lua/plugins/gruvbox.lua` file into your `~/.config/nvim/lua/plugins` directory.
