@@ -27,3 +27,13 @@ A rice that utilises:
 <img width="800" alt="SucklessGruvbox" src="https://github.com/omrawaley/dotfiles/assets/133281331/1a63662d-e0cd-4a8c-b4ad-aa2d36c9324e">
 
 (Wallpaper taken from [here](https://www.reddit.com/r/wallpaper/comments/vrf0f4/3840x2160_gruvbox_stripes_all_wallpapers_light/))
+
+### Install
+
+#### dwm, dmenu, & st
+Copy each `config.h` into their respective directories wherever your Suckless programs are installed.
+
+#### nvim
+Copy the `lua` folder into your `~/.config/nvim` directory.
+
+(NOTE: this will completely reset your plugins. If you just want the Gruvbox theme, solely copy the `lua/plugins/gruvbox.lua` file)
