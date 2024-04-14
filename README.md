@@ -16,3 +16,14 @@ A rice that utilises:
 
 ### Install
 Copy every folder into your `~/.config` directory. 
+
+## Suckless Gruvbox
+A rice that utilises:
+- [Gruvbox](https://github.com/morhetz/gruvbox) theme
+- [dwm](https://dwm.suckless.org/) window manager
+- [dmenu](https://tools.suckless.org/dmenu/) application launcher
+- [st](https://st.suckless.org/) terminal emulator
+  
+<img width="800" alt="SucklessGruvbox" src="https://github.com/omrawaley/dotfiles/assets/133281331/1a63662d-e0cd-4a8c-b4ad-aa2d36c9324e">
+
+(Wallpaper taken from [here](https://www.reddit.com/r/wallpaper/comments/vrf0f4/3840x2160_gruvbox_stripes_all_wallpapers_light/))
