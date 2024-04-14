@@ -34,6 +34,4 @@ A rice that utilises:
 Copy each `config.h` into their respective directories wherever your Suckless programs are installed.
 
 #### nvim
-Copy the `lua` folder into your `~/.config/nvim` directory.
-
-(NOTE: this will completely reset your plugins. If you just want the Gruvbox theme, solely copy the `lua/plugins/gruvbox.lua` file)
+Copy the `lua/plugins/gruvbox.lua` file into your `~/.config/nvim/lua/plugins` directory.
