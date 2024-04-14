@@ -3,8 +3,8 @@ My Linux rice dotfiles!
 
 ## Awesome Catppuccin
 A rice that utilises:
-- [Awesome](https://awesomewm.org/) window manager
 - [Catppuccin](https://github.com/catppuccin/catppuccin) theme
+- [Awesome](https://awesomewm.org/) window manager
 - [Polybar](https://github.com/polybar/polybar) status bar
 - [Picom](https://github.com/yshui/picom) compositor
 - [Kitty](https://sw.kovidgoyal.net/kitty/) terminal emulator
